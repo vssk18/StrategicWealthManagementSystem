@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+bin/
+out/
+target/
+*.iml
+.idea/
+.DS_Store
