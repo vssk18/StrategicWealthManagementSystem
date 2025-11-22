@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+out/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build files
+target/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# CSV exports (user data)
+*.csv
+!data/sample_portfolio.csv
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java specific
+hs_err_pid*

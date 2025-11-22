@@ -1,0 +1,14 @@
+Symbol,Name,Type,Quantity,Purchase Price,Current Price,Purchase Date,Sector
+AAPL,Apple Inc.,STOCK,50,150.00,175.50,2024-05-22,Technology
+MSFT,Microsoft Corp.,STOCK,30,300.00,350.00,2024-03-22,Technology
+GOOGL,Alphabet Inc.,STOCK,20,120.00,140.00,2024-07-22,Technology
+AMZN,Amazon.com Inc.,STOCK,25,140.00,165.00,2024-06-15,Technology
+TSLA,Tesla Inc.,STOCK,15,200.00,245.00,2024-04-10,Automotive
+SPY,S&P 500 ETF,ETF,100,400.00,450.00,2023-11-22,Diversified
+VTI,Vanguard Total Stock Market ETF,ETF,75,200.00,220.00,2024-01-22,Diversified
+QQQ,Nasdaq 100 ETF,ETF,50,350.00,380.00,2024-02-15,Technology
+AGG,iShares Core US Aggregate Bond ETF,BOND,200,100.00,98.00,2023-10-22,Fixed Income
+BND,Vanguard Total Bond Market ETF,BOND,150,75.00,73.50,2023-12-01,Fixed Income
+VGSLX,Vanguard Real Estate Index Fund,MUTUAL_FUND,100,110.00,115.00,2024-03-01,Real Estate
+VWELX,Vanguard Wellington Fund,MUTUAL_FUND,80,70.00,75.00,2024-05-01,Balanced
+GLD,SPDR Gold Shares,COMMODITY,30,180.00,195.00,2024-01-15,Precious Metals
